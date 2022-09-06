@@ -5,7 +5,7 @@ using System;
 class AssignmentOne
 {
 
-    public static void Run()
+    public static void Main()
     {
         //Tjek test according to writen eksamble 
         // int n = 10;
@@ -18,6 +18,9 @@ class AssignmentOne
 
         int n = 1000;
         Console.Write(NaturalMaks(n));
+
+        Assignment2.run();
+
     }
 
 

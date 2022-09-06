@@ -8,12 +8,13 @@ using System.Threading.Tasks;
 
 class Assignment2
 {
-    public static void Main()
+    public static void run()
     {
         //Test to check according to the eksamble
         int n = 2;
         Console.Write(Palindrome(n));
 
+       
     }
 
     static int Palindrome(int n)
@@ -40,12 +41,16 @@ class Assignment2
                 {
                     Check = Check * 10 + ProductNumber % 10;
                 }
+
+                if(product == ProductNumber && product > Maks)
+                {
+                    result = product;
+                }
             }
         }
-        
 
         return result;
 
     }
-
+    
 }
