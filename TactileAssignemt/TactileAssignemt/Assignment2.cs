@@ -4,9 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TactileAssignemt
+
+
+class Assignment2
 {
-    internal class Class1
+    public static void Main()
     {
+        //Test to check according to the eksamble
+        int n = 2;
+        Console.Write(Palindrome(n));
+
     }
+
+    static int Palindrome(int n)
+    {   
+        int result = 0;
+
+        int Maks = (int)Math.Pow(10, n) - 1;
+        
+
+        return Maks;
+
+    }
+
 }

@@ -4,7 +4,23 @@ using System;
 
 class AssignmentOne
 {
-    
+
+    public static void Run()
+    {
+        //Tjek test according to writen eksamble 
+        // int n = 10;
+
+        //writing test
+        /*
+        Console.Write("Enter an Maks(typed nr not inkl.): ");
+        int n = int.Parse(Console.ReadLine());
+        */
+
+        int n = 1000;
+        Console.Write(NaturalMaks(n));
+    }
+
+
 
     static int NaturalMaks(int Maks) { 
 
@@ -43,20 +59,6 @@ class AssignmentOne
         return Total;
     }
 
-    public static void Main()
-    {
-        //Tjek test according to writen eksamble 
-        // n = 10;
-
-        //writing test
-        /*
-        Console.Write("Enter an Maks(typed nr not inkl.): ");
-        int n = int.Parse(Console.ReadLine());
-        */
-
-        int n = 1000;
-        Console.Write(NaturalMaks(n));
-    }
 
 
 }
