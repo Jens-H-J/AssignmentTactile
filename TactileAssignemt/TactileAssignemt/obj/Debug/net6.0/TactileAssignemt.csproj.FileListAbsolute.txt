@@ -1,0 +1,15 @@
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\bin\Debug\net6.0\TactileAssignemt.exe
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\bin\Debug\net6.0\TactileAssignemt.deps.json
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\bin\Debug\net6.0\TactileAssignemt.runtimeconfig.json
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\bin\Debug\net6.0\TactileAssignemt.dll
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\bin\Debug\net6.0\TactileAssignemt.pdb
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.csproj.AssemblyReference.cache
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.AssemblyInfoInputs.cache
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.AssemblyInfo.cs
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.csproj.CoreCompileInputs.cache
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.dll
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\refint\TactileAssignemt.dll
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.pdb
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\TactileAssignemt.genruntimeconfig.cache
+C:\Users\jensj\TactileAssignment\AssignmentTactile\TactileAssignemt\TactileAssignemt\obj\Debug\net6.0\ref\TactileAssignemt.dll
