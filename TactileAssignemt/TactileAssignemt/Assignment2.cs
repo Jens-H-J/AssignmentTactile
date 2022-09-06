@@ -21,9 +21,12 @@ class Assignment2
         int result = 0;
 
         int Maks = (int)Math.Pow(10, n) - 1;
+        int Min = 1 + Maks / 10;
+
+       // for (int i = Maks)
         
 
-        return Maks;
+        return Min;
 
     }
 
